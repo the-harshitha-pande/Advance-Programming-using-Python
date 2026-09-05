@@ -42,4 +42,13 @@ n=int(input("enter the number of terms"))
 for i in range(n):
     print(fibona(i), end = " ")
 
-
+#even tail recurrsion also does not automatically solve problem with large recurssive computation only following iterative would help
+# tail recurssion vs normal recurssion 
+"""
+features                                normal recurssion                                tail recurssion
+recurssive call                         not necessarily last                             last operation
+pending operating after call            yes                                              no
+uses accumulator                        usually no                                       offen yes
+tail-call optimization in python        no                                               no 
+stack limitation                        yes                                              still yes in python
+"""

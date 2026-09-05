@@ -1,18 +1,18 @@
 #in a for loop how many arguments will be there - 3 start, steps,end
 
-n = int(input("Enter the number: "))
+""" n = int(input("Enter the number: "))
 value = 1
 
 for i in range(1, 11, 1):
     print(n * value)
-    value = value + 1
+    value = value + 1"""
 
 #reversed
-n = int(input("Enter the number: "))
+"""n = int(input("Enter the number: "))
 value = 1
 
 for i in range(10, 0, -1):
-    print(n * i)
+    print(n * i)"""
 
 
 # assignment 2 -> patterns should be done here and write tht in notes . make 2 parts - code and output

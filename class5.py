@@ -70,3 +70,6 @@ def deposit(amt):
     balance +=amt
 deposit(2000)
 print("balance=",balance)
+
+#Recurssion 
+def fact(n):

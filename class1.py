@@ -78,3 +78,7 @@ for num in sorted(nums):
     print(num)  """
 
 ##difference bt sort n sorted
+
+# git add .
+# git commit -m "Updated project"
+# git push
