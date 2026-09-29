@@ -60,9 +60,9 @@ for notification in notifications:
 
 # single inheritance - object will be created for child class, and access paernt from child class
 # multilevel inheritance- one parent - nxt class1 derive from parent then class2 derives from class1
-# multiple -
+# multiple - multiple parent one child
 #herarchy -one parent class multiple child class 
-#hybrid- combination of any of 4 types above
+#hybrid- combination of any 2 or 3 of 4 types above
 
 
 
